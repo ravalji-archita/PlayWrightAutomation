@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Jul 07 17:06:33 EDT 2024","Sun Jul 07 17:06:38 EDT 2024","5560","","UIBasicstest.spec.js","","","","@Web Browser Context Playright test",""
+"passed","Sun Jul 07 17:06:16 EDT 2024","Sun Jul 07 17:06:27 EDT 2024","11055","","MoreValidation.spec.js","","","","@Web Popup Validations",""
+"passed","Sun Jul 07 17:06:30 EDT 2024","Sun Jul 07 17:06:41 EDT 2024","11598","","ClientAppPO.spec.js","","","","@Web Client App login ADIDAS ORIGINAL",""
+"passed","Sun Jul 07 17:06:16 EDT 2024","Sun Jul 07 17:06:29 EDT 2024","13366","","ClientAppPO.spec.js","","","","@Web Client App login ZARA COAT 3",""
